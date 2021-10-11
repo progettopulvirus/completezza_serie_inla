@@ -1,4 +1,4 @@
-# Completezza serie inla
+# Completezza serie per modello INLA sulle differenze 2019/2020
 
 Programma per la selezione delle serie da utilizzare per il modello INLA sulle differenze 2019/2020
 
